@@ -1,0 +1,17 @@
+{
+    "posts":[
+        {
+            "id": 1, 
+            "text" : "my friend gandalf <33 !!", 
+            "image" : "https://live.staticflickr.com/3546/5712240313_7eafa675a5_c.jpg", 
+            "likes" : 22, 
+            "comments" : [
+                "looking good, old man!",
+                "so glad we made it out of frog swamp ^____^", 
+                "mannnnnn... wish i had been there to see this"
+            ], 
+            "song" : "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u?si=ee92487d178c4edc", 
+            "saved" : false
+        }
+    ]
+}
